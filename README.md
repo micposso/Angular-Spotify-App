@@ -1,3 +1,3 @@
 # Angular Spotify App
 
-This is an Angular2 app that utilizes the Spotify API to pull songs titles and album covers. It also uses a media player to listen to the titles. 
+This is an Angular2 app that utilizes the Spotify web API to search for songs and artist. You can also preview songs with a media player.
